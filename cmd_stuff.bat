@@ -1,1 +1,2 @@
-ehco Hello World!
+echo Hello World!
+echo MASTER!
