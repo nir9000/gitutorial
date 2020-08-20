@@ -1,2 +1,3 @@
-echo Hello World!
+ehco Hello World!
+echo Banana
 echo MASTER!
